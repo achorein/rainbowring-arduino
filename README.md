@@ -1,5 +1,5 @@
 # arduino-rainbow-ring
-Animated rainbow ring (NeoPixel Ring 16) using Arduino LilyPad fixed on a necklace.
+Animated rainbow ring (NeoPixel Ring 16) using Arduino (LilyPad or mini pro).
 
 
 5 animations in a infinte loop :
@@ -9,5 +9,6 @@ Animated rainbow ring (NeoPixel Ring 16) using Arduino LilyPad fixed on a neckla
 - Rotating snake
 - Full ring color (rainbow)
 
+The holder design (pendant) for 3D printing is available on thingiverse : https://www.thingiverse.com/thing:2379072
 
 ![arduino-rainbow-ring](arduino-rainbow-ring-lilypad.jpg)!
